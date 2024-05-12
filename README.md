@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Uche Echesurum
 - 👀 I’m interested in full-stack development 
-- 💞️ I’m looking to collaborate on anything fun programming !!!
+- 💞️ Also interested in Diving deeper into computer systems and Graphics programming !!!
 - 📫 How to reach me ucheAchay3@gmail.com
 
 <!---
